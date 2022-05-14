@@ -1,0 +1,5 @@
+project: rust-cssparser
+target: cssparser
+
+cmds:
+  - cmd: /cssparser
