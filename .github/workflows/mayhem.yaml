@@ -8,7 +8,7 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   PROJECTNAME: rust-cssparser
-  FROM_SLICE_MAYHEMFILE: Mayhem/rust-cssparser.mayhemfile
+  FROM_SLICE_MAYHEMFILE: Mayhem/cssparser.mayhemfile
 
 jobs:
   build:
